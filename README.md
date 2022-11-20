@@ -5,7 +5,8 @@
 </p>
 
 <p align="left">
-  💌 Entre em contato comigo por e-mail: <strong>me@nero.cat</strong> ⤵️
+  Entre em contato comigo por e-mail: <br>
+  💌 <strong>me@nero.cat</strong>
 </p>
 <br>
 <br>
